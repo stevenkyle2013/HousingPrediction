@@ -37,6 +37,7 @@ The main Questions that we are asking are:
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelQQPlot.png)
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelHomoscedasticity.png)
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelError.png)
+![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelFull.png)
 
 
 ## Conclusion
