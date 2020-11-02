@@ -29,15 +29,9 @@ The main Questions that we are asking are:
 
 ## Final model including all the features
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary1.png)
-![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary2.png)
-![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary3.png)
-![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary4.png)
-![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary5.png)
-![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary6.png)
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelQQPlot.png)
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelHomoscedasticity.png)
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelError.png)
-![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelFull.png)
 
 
 ## Conclusion
