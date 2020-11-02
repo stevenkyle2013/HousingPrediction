@@ -28,6 +28,7 @@ The main Questions that we are asking are:
 - scipy
 
 ## Final model including all the features
+*There is too many features to show as a picture, look in the main notebook to see details about the features*
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary1.png)
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelQQPlot.png)
 ![alt text](https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelHomoscedasticity.png)
