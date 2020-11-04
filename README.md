@@ -29,9 +29,9 @@ The main Questions that we are asking are:
 
 ## Final model including all the features
 *There is too many features to show as a picture, look in the main notebook to see details about the features*
-<img src="https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary1.png" width="400">
-<img src="https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelQQPlot.png" width="300">
-<img src="https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelHomoscedasticity.png" width="300">
+<img src="https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelSummary1.png" width="500">
+<img src="https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelQQPlot.png" width="350">
+<img src="https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelHomoscedasticity.png" width="350">
 <img src="https://github.com/stevenkyle2013/HousingPrediction/blob/main/Pictures/FinalModelError.png" width="300">  
 
 
